@@ -1,0 +1,3 @@
+# Project Description
+---
+### We are building a video streaming platform available for both web and app interfaces. We have already been started with the web development. Firstly, I build the user interfaces according to user experiences in figma and later I built the UI in web using React.js framework. Recenlty, we established the node.js, express, mongoBD connection. This is our progress till now.
